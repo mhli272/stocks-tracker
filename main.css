@@ -1,0 +1,10 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('img/stocks_title.png');
+}
+img{
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
